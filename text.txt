@@ -5,6 +5,3 @@ local repo
 remote repo
 stash
 
-gshsxvs
-xhsbsjb
-hscbs
